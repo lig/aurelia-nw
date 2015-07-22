@@ -1,5 +1,6 @@
 import 'bootstrap';
 import 'bootstrap/css/bootstrap.css!';
+import pg from 'pg';
 
 export class App {
 	configureRouter(config, router){
